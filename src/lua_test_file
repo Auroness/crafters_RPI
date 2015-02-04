@@ -1,0 +1,4 @@
+-- configuration file for program `pp'
+    -- define window size
+    width = 2
+    height = 3
